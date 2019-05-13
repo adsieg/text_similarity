@@ -147,14 +147,14 @@ https://optimaltransport.github.io/pdf/ComputationalOT.pdf
 - **[Word2Vec to convert each question into a semantic vector then stack a Siamese network to detect if the pair is duplicate]** : http://www.erogol.com/duplicate-question-detection-deep-learning/
 
 - [Amazing !!!] : https://github.com/makcedward/nlp
-    -  <font color="red">Distance Measurement:</font>
+    - ***Distance Measurement:***
       - Euclidean Distance, Cosine Similarity and Jaccard Similarity
       - Edit Distance + Levenshtein Distance
       - Word Moving Distance (WMD)
       - Supervised Word Moving Distance (S-WMD)
       - Manhattan LSTM
       
-    - <font color="red">Text Representation:</font>
+    - **Text Representation:**
     
       **1. Traditional Method**
         - Bag-of-words (BoW)

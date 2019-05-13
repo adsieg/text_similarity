@@ -176,12 +176,13 @@ SOURCES
 
 -   \[Amazing !!!\] :
     <a href="https://github.com/makcedward/nlp" class="uri">https://github.com/makcedward/nlp</a>
-    -   <font color="red">Distance Measurement:</font> - Euclidean
-        Distance, Cosine Similarity and Jaccard Similarity - Edit
-        Distance + Levenshtein Distance - Word Moving Distance (WMD) -
-        Supervised Word Moving Distance (S-WMD) - Manhattan LSTM
-
-    -   <font color="red">Text Representation:</font>
+    -   ***Distance Measurement:***
+        -   Euclidean Distance, Cosine Similarity and Jaccard Similarity
+        -   Edit Distance + Levenshtein Distance
+        -   Word Moving Distance (WMD)
+        -   Supervised Word Moving Distance (S-WMD)
+        -   Manhattan LSTM
+    -   **Text Representation:**
 
         **1. Traditional Method**
         -   Bag-of-words (BoW)
