@@ -111,7 +111,7 @@ https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
     -	an advanced model that takes the element-wise sum of the context-aware word representations produced by the encoding subgraph of a Transformer model
     -	a simpler Deep Averaging Network (DAN) where input embeddings for words and bigrams are averaged together and passed through a feed-forward deep neural network.
     
-    =====>> **work with Pearson correlation**
+    ====-> **work with Pearson correlation**
 
 - **[How to predict Quora Question Pairs using Siamese Manhattan LSTM]** : https://medium.com/mlreview/implementing-malstm-on-kaggles-quora-question-pairs-competition-8b31b0b16a07
 
@@ -147,37 +147,37 @@ https://optimaltransport.github.io/pdf/ComputationalOT.pdf
 - **[Word2Vec to convert each question into a semantic vector then stack a Siamese network to detect if the pair is duplicate]** : http://www.erogol.com/duplicate-question-detection-deep-learning/
 
 - [Amazing !!!] : https://github.com/makcedward/nlp
-    - Distance Measurement
-      => Euclidean Distance, Cosine Similarity and Jaccard Similarity
-      => Edit Distance + Levenshtein Distance
-      => Word Moving Distance (WMD)
-      => Supervised Word Moving Distance (S-WMD)
-      => Manhattan LSTM
+    -  <font color="red">Distance Measurement:</font>
+      - Euclidean Distance, Cosine Similarity and Jaccard Similarity
+      - Edit Distance + Levenshtein Distance
+      - Word Moving Distance (WMD)
+      - Supervised Word Moving Distance (S-WMD)
+      - Manhattan LSTM
       
-    - Text Representation:
+    - <font color="red">Text Representation:</font>
     
       **1. Traditional Method**
-        => Bag-of-words (BoW)
-        => Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA)
+        - Bag-of-words (BoW)
+        - Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA)
 
       **2. Character Level** 
-        => Character Embedding
+        - Character Embedding
         
       **3. Word Level** 
-        => Negative Sampling and Hierarchical Softmax			
-        => Word2Vec, GloVe, fastText
-        => Contextualized Word Vectors (CoVe)
-        => Embeddings from Language Models (ELMo)
-        => Generative Pre-Training (GPT)
-        => Contextual String Embeddings
-        => Self-Governing Neural Networks (SGNN)
-        => Multi-Task Deep Neural Networks (MT-DNN)
-        => Generative Pre-Training-2 (GPT-2)
-        => Universal Language Model Fine-tuning (ULMFiT)
+        - Negative Sampling and Hierarchical Softmax			
+        - Word2Vec, GloVe, fastText
+        - Contextualized Word Vectors (CoVe)
+        - Embeddings from Language Models (ELMo)
+        - Generative Pre-Training (GPT)
+        - Contextual String Embeddings
+        - Self-Governing Neural Networks (SGNN)
+        - Multi-Task Deep Neural Networks (MT-DNN)
+        - Generative Pre-Training-2 (GPT-2)
+        - Universal Language Model Fine-tuning (ULMFiT)
       
       **4. Sentence Level**
-        => Skip-thoughts
-        => InferSent
-        => Quick-Thoughts	
-        => General Purpose Sentence (GenSen)
-        => Bidirectional Encoder Representations from Transformers (BERT)
+        - Skip-thoughts
+        - InferSent
+        - Quick-Thoughts	
+        - General Purpose Sentence (GenSen)
+        - Bidirectional Encoder Representations from Transformers (BERT)

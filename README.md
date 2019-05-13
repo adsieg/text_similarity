@@ -131,7 +131,7 @@ SOURCES
         for words and bigrams are averaged together and passed through a
         feed-forward deep neural network.
 
-    =====&gt;&gt; **work with Pearson correlation**
+    ====-&gt; **work with Pearson correlation**
 
 -   **\[How to predict Quora Question Pairs using Siamese Manhattan
     LSTM\]** :
@@ -176,29 +176,37 @@ SOURCES
 
 -   \[Amazing !!!\] :
     <a href="https://github.com/makcedward/nlp" class="uri">https://github.com/makcedward/nlp</a>
-    -   Distance Measurement =&gt; Euclidean Distance, Cosine Similarity
-        and Jaccard Similarity =&gt; Edit Distance + Levenshtein
-        Distance =&gt; Word Moving Distance (WMD) =&gt; Supervised Word
-        Moving Distance (S-WMD) =&gt; Manhattan LSTM
+    -   <font color="red">Distance Measurement:</font> - Euclidean
+        Distance, Cosine Similarity and Jaccard Similarity - Edit
+        Distance + Levenshtein Distance - Word Moving Distance (WMD) -
+        Supervised Word Moving Distance (S-WMD) - Manhattan LSTM
 
-    -   Text Representation:
+    -   <font color="red">Text Representation:</font>
 
-        **1. Traditional Method** =&gt; Bag-of-words (BoW) =&gt; Latent
-        Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA)
+        **1. Traditional Method**
+        -   Bag-of-words (BoW)
+        -   Latent Semantic Analysis (LSA) and Latent Dirichlet
+            Allocation (LDA)
 
-        **2. Character Level** =&gt; Character Embedding
+        **2. Character Level**
+        -   Character Embedding
 
-        **3. Word Level** =&gt; Negative Sampling and Hierarchical
-        Softmax  
-        =&gt; Word2Vec, GloVe, fastText =&gt; Contextualized Word
-        Vectors (CoVe) =&gt; Embeddings from Language Models (ELMo)
-        =&gt; Generative Pre-Training (GPT) =&gt; Contextual String
-        Embeddings =&gt; Self-Governing Neural Networks (SGNN) =&gt;
-        Multi-Task Deep Neural Networks (MT-DNN) =&gt; Generative
-        Pre-Training-2 (GPT-2) =&gt; Universal Language Model
-        Fine-tuning (ULMFiT)
+        **3. Word Level**
+        -   Negative Sampling and Hierarchical Softmax  
+        -   Word2Vec, GloVe, fastText
+        -   Contextualized Word Vectors (CoVe)
+        -   Embeddings from Language Models (ELMo)
+        -   Generative Pre-Training (GPT)
+        -   Contextual String Embeddings
+        -   Self-Governing Neural Networks (SGNN)
+        -   Multi-Task Deep Neural Networks (MT-DNN)
+        -   Generative Pre-Training-2 (GPT-2)
+        -   Universal Language Model Fine-tuning (ULMFiT)
 
-        **4. Sentence Level** =&gt; Skip-thoughts =&gt; InferSent =&gt;
-        Quick-Thoughts  
-        =&gt; General Purpose Sentence (GenSen) =&gt; Bidirectional
-        Encoder Representations from Transformers (BERT)
+        **4. Sentence Level**
+        -   Skip-thoughts
+        -   InferSent
+        -   Quick-Thoughts  
+        -   General Purpose Sentence (GenSen)
+        -   Bidirectional Encoder Representations from Transformers
+            (BERT)
