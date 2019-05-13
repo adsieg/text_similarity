@@ -105,9 +105,9 @@ https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
     -	InferSent (INF) 
     -	GSE (Google Sentence Encoder)
     
-    InferSent (INF)  = pre-trained encoder that was developed by Facebook Research. It is a BiLSTM with max pooling, trained on the SNLI dataset, 570k English sentence pairs labelled with one of three categories: entailment, contradiction or neutral.
+    **InferSent (INF)**  = pre-trained encoder that was developed by Facebook Research. It is a BiLSTM with max pooling, trained on the SNLI dataset, 570k English sentence pairs labelled with one of three categories: entailment, contradiction or neutral.
     
-    GSE (Google Sentence Encoder) = Google’s answer to Facebook’s InferSent. It comes in two forms: 
+    **GSE (Google Sentence Encoder)** = Google’s answer to Facebook’s InferSent. It comes in two forms: 
     -	an advanced model that takes the element-wise sum of the context-aware word representations produced by the encoding subgraph of a Transformer model
     -	a simpler Deep Averaging Network (DAN) where input embeddings for words and bigrams are averaged together and passed through a feed-forward deep neural network.
     
@@ -117,10 +117,12 @@ https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
 
 - **[Latent Semantic Indexing (LSI) - An Example with mathematics]** : http://www1.se.cuhk.edu.hk/~seem5680/lecture/LSI-Eg.pdf
 
-https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html
-https://www.machinelearningplus.com/nlp/cosine-similarity/
-http://poloclub.gatech.edu/cse6242/2018spring/slides/CSE6242-820-TextAlgorithms.pdf
-https://github.com/makcedward/nlp/blob/master/sample/nlp-word_embedding.ipynb
+- **[Finding similar documents with Word2Vec and WMD]** : https://markroxor.github.io/gensim/static/notebooks/WMD_tutorial.html
+
+- **[Cosine Similarity]** : https://www.machinelearningplus.com/nlp/cosine-similarity/
+
+- **[Tutorial on LSI]** : http://poloclub.gatech.edu/cse6242/2018spring/slides/CSE6242-820-TextAlgorithms.pdf
+
 http://robotics.stanford.edu/~scohen/research/emdg/emdg.html#flow_eqw_notopt
 http://robotics.stanford.edu/~rubner/slides/sld014.htm
 http://jxieeducation.com/2016-06-13/Document-Similarity-With-Word-Movers-Distance/
@@ -129,5 +131,53 @@ https://www.renom.jp/index.html?c=tutorial
 https://weave.eu/le-transport-optimal-un-couteau-suisse-pour-la-data-science/
 https://hsaghir.github.io/data_science/denoising-vs-variational-autoencoder/
 https://www.jeremyjordan.me/variational-autoencoders/
-https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases
-http://www.erogol.com/duplicate-question-detection-deep-learning/
+
+
+https://yoo2080.wordpress.com/2015/04/09/introduction-to-wasserstein-metric-earth-movers-distance/
+https://jeremykun.com/2018/03/05/earthmover-distance/
+https://stats.stackexchange.com/questions/303050/word-movers-distance-calculation-between-word-pairs-of-two-documents
+https://github.com/stephenhky/PyWMD/blob/master/WordMoverDistanceDemo.ipynb
+
+https://optimaltransport.github.io/pdf/ComputationalOT.pdf
+
+
+
+- **[NICE !!!!!! How Autoencoders work - Understanding the math and implementation]** : https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases
+
+- **[Word2Vec to convert each question into a semantic vector then stack a Siamese network to detect if the pair is duplicate]** : http://www.erogol.com/duplicate-question-detection-deep-learning/
+
+- [Amazing !!!] : https://github.com/makcedward/nlp
+    - Distance Measurement
+      => Euclidean Distance, Cosine Similarity and Jaccard Similarity
+      => Edit Distance + Levenshtein Distance
+      => Word Moving Distance (WMD)
+      => Supervised Word Moving Distance (S-WMD)
+      => Manhattan LSTM
+      
+    - Text Representation:
+    
+      **1. Traditional Method**
+        => Bag-of-words (BoW)
+        => Latent Semantic Analysis (LSA) and Latent Dirichlet Allocation (LDA)
+
+      **2. Character Level** 
+        => Character Embedding
+        
+      **3. Word Level** 
+        => Negative Sampling and Hierarchical Softmax			
+        => Word2Vec, GloVe, fastText
+        => Contextualized Word Vectors (CoVe)
+        => Embeddings from Language Models (ELMo)
+        => Generative Pre-Training (GPT)
+        => Contextual String Embeddings
+        => Self-Governing Neural Networks (SGNN)
+        => Multi-Task Deep Neural Networks (MT-DNN)
+        => Generative Pre-Training-2 (GPT-2)
+        => Universal Language Model Fine-tuning (ULMFiT)
+      
+      **4. Sentence Level**
+        => Skip-thoughts
+        => InferSent
+        => Quick-Thoughts	
+        => General Purpose Sentence (GenSen)
+        => Bidirectional Encoder Representations from Transformers (BERT)
