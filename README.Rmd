@@ -7,7 +7,11 @@ output:
     variant: markdown_github
 ---
 
-# ARTICLES
+# The article:
+
+### https://medium.com/@adriensieg/text-similarities-da019229c894
+
+# Methods studied in the article
 
 - Jaccard Similarity
 

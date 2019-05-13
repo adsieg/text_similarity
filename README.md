@@ -1,5 +1,10 @@
-ARTICLES
-========
+The article:
+============
+
+### <a href="https://medium.com/@adriensieg/text-similarities-da019229c894" class="uri">https://medium.com/@adriensieg/text-similarities-da019229c894</a>
+
+Methods studied in the article
+==============================
 
 -   Jaccard Similarity
 
