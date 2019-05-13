@@ -128,23 +128,30 @@ https://towardsdatascience.com/elmo-contextual-language-embedding-335de2268604
 - **[Tutorial on LSI]** : http://poloclub.gatech.edu/cse6242/2018spring/slides/CSE6242-820-TextAlgorithms.pdf
 
 http://robotics.stanford.edu/~scohen/research/emdg/emdg.html#flow_eqw_notopt
+
 http://robotics.stanford.edu/~rubner/slides/sld014.htm
+
 http://jxieeducation.com/2016-06-13/Document-Similarity-With-Word-Movers-Distance/
-http://stefansavev.com/blog/beyond-cosine-similarity/
-https://www.renom.jp/index.html?c=tutorial
-https://weave.eu/le-transport-optimal-un-couteau-suisse-pour-la-data-science/
-https://hsaghir.github.io/data_science/denoising-vs-variational-autoencoder/
-https://www.jeremyjordan.me/variational-autoencoders/
 
+- **[Beyond Cosinu > Jensen-Shannon + Hypothesis Test]** : http://stefansavev.com/blog/beyond-cosine-similarity/
 
-https://yoo2080.wordpress.com/2015/04/09/introduction-to-wasserstein-metric-earth-movers-distance/
-https://jeremykun.com/2018/03/05/earthmover-distance/
-https://stats.stackexchange.com/questions/303050/word-movers-distance-calculation-between-word-pairs-of-two-documents
-https://github.com/stephenhky/PyWMD/blob/master/WordMoverDistanceDemo.ipynb
+- **[Great ressources with MANY MANY notebooks]** : https://www.renom.jp/index.html?c=tutorial
 
-https://optimaltransport.github.io/pdf/ComputationalOT.pdf
+- **[LE TRANSPORT OPTIMAL, COUTEAU SUISSE POUR LA DATA SCIENCE]**: https://weave.eu/le-transport-optimal-un-couteau-suisse-pour-la-data-science/
 
+- **[BEST TUTORIAL variational-autoencoders]** : https://www.jeremyjordan.me/variational-autoencoders/
 
+- **[BEST TUTORIAL : Earthmover Distance !!!!!]** : https://jeremykun.com/2018/03/05/earthmover-distance/
+
+Problem: Compute distance between points with uncertain locations (given by samples, or differing observations, or clusters).
+
+- **[Introduction to Wasserstein metric (earth mover’s distance) -> Mathematics]**: https://yoo2080.wordpress.com/2015/04/09/introduction-to-wasserstein-metric-earth-movers-distance/
+
+- **[Word Mover's distance calculation between word pairs of two documents]** : https://stats.stackexchange.com/questions/303050/word-movers-distance-calculation-between-word-pairs-of-two-documents
+
+- [WMD + Word2Vec] : https://github.com/stephenhky/PyWMD/blob/master/WordMoverDistanceDemo.ipynb
+
+- **[Books about Optimal Transport]** : https://optimaltransport.github.io/pdf/ComputationalOT.pdf
 
 - **[NICE !!!!!! How Autoencoders work - Understanding the math and implementation]** : https://www.kaggle.com/shivamb/how-autoencoders-work-intro-and-usecases
 
