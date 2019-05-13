@@ -55,6 +55,7 @@ SOURCES
     -   Traditional text classification with Scikit-learn \[ELI5\]
     -   Updating spaCy’s Named Entity Recognition System
 
+-   **\[Tutorial WMD in jupyter notebook\]** :
     <a href="https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb" class="uri">https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb</a>
 
 -   **\[Word Mover Distance\]** :

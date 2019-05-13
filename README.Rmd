@@ -55,8 +55,7 @@ output:
     - Traditional text classification with Scikit-learn [ELI5]
     - Updating spaCy's Named Entity Recognition System
     
-    https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb
-
+- **[Tutorial WMD in jupyter notebook]** : https://github.com/makcedward/nlp/blob/master/sample/nlp-word_mover_distance.ipynb
 
 - **[Word Mover Distance]** : https://www.kaggle.com/ankitswarnkar/word-embedding-using-glove-vector
 
