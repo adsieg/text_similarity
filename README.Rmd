@@ -198,10 +198,7 @@ Problem: Compute distance between points with uncertain locations (given by samp
 
 - **[Waaaaaaaaaaaa]** :https://machinelearningmastery.com/encoder-decoder-deep-learning-models-text-summarization/
 
-![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_micro.png)
-
 ![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_macro.png)
 
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_micro.png)
 
-
-![](https://github.com/adsieg/text_similarity/blob/master/pictures/google_sentence_encoder.png)
