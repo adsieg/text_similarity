@@ -191,3 +191,17 @@ Problem: Compute distance between points with uncertain locations (given by samp
         - Quick-Thoughts	
         - General Purpose Sentence (GenSen)
         - Bidirectional Encoder Representations from Transformers (BERT)
+
+# [Zoom] : Google Sentence Encoder
+
+- **[Reference]** : https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html
+
+- **[Waaaaaaaaaaaa]** :https://machinelearningmastery.com/encoder-decoder-deep-learning-models-text-summarization/
+
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_micro.png)
+
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_macro.png)
+
+
+
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/google_sentence_encoder.png)

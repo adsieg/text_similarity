@@ -239,3 +239,18 @@ by samples, or differing observations, or clusters).
         -   General Purpose Sentence (GenSen)
         -   Bidirectional Encoder Representations from Transformers
             (BERT)
+
+\[Zoom\] : Google Sentence Encoder
+==================================
+
+-   **\[Reference\]** :
+    <a href="https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html" class="uri">https://ai.googleblog.com/2018/05/advances-in-semantic-textual-similarity.html</a>
+
+-   **\[Waaaaaaaaaaaa\]**
+    :<a href="https://machinelearningmastery.com/encoder-decoder-deep-learning-models-text-summarization/" class="uri">https://machinelearningmastery.com/encoder-decoder-deep-learning-models-text-summarization/</a>
+
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_micro.png)
+
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/sentence_embedding_macro.png)
+
+![](https://github.com/adsieg/text_similarity/blob/master/pictures/google_sentence_encoder.png)
